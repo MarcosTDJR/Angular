@@ -1,2 +1,2 @@
 # Angular
-Desenvolvendo uma aplicação utilizando AngularJs.
+Desenvolvendo uma aplicação utilizando Angular.
